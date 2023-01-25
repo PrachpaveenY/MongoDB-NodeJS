@@ -1,14 +1,22 @@
 {
-  "name": "nodejs-and-mongodb",
+  "name": "mongodb-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrachpaveenY/MongoDB-NodeJS.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrachpaveenY/MongoDB-NodeJS/issues"
+  },
+  "homepage": "https://github.com/PrachpaveenY/MongoDB-NodeJS#readme",
   "dependencies": {
     "mongodb": "^4.13.0"
   }
