@@ -2,9 +2,12 @@
   "name": "mongodb-nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scriptsStart": {
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +21,7 @@
   },
   "homepage": "https://github.com/PrachpaveenY/MongoDB-NodeJS#readme",
   "dependencies": {
+    "express": "^4.18.2",
     "mongodb": "^4.13.0"
   }
 }
