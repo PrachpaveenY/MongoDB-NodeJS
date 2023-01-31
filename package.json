@@ -2,12 +2,9 @@
   "name": "mongodb-nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "insert-many.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "scriptsStart": {
-    "start": "node server.js"
+    "start": "node insert-many.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +19,7 @@
   "homepage": "https://github.com/PrachpaveenY/MongoDB-NodeJS#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongodb": "^4.13.0"
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.9.0"
   }
 }
