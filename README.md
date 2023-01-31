@@ -1,7 +1,9 @@
 # MongoDB-NodeJS
+- My site is live at = null
+
 ### Details
-- My site is live at = nil
-- Use MongoDB and NodeJS to build projects
+- It is a system to save data to MongoDB by using method : save(), create(), insertMany()
+- First MongoDB-NodeJS
 - Tools = JavaScript, Node.js, MongoDB
 </br>
 
@@ -10,13 +12,11 @@
 │
 └── 📁node_modules
 │
-└── 📁...
-│   ├── 📁...
-│   │   ├── 📄...
-│   │   └── 📄...
-│   └── 📁...
-│       ├── 📄...
-│       └── 📄...
-└── 📄... 
-└── 📄...
+└── 📄index.js                 = null
+└── 📄insert-many.js           = method : save(), create(), insertMany()
+└── 📄models.js                = split connection : const mongoose, const productSchema, var Product
+└── 📄note                     = save comments
+└── 📄package-lock.json
+└── 📄package.json
+└── 📄README.md
 ```
