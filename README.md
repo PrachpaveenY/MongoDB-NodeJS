@@ -2,8 +2,7 @@
 - My site is live at = null
 
 ### Details
-- It is a system to save data to MongoDB by using method : save(), create(), insertMany()
-- First MongoDB-NodeJS
+- System to save data to MongoDB by using method : save(), create(), insertMany()
 - Tools = JavaScript, Node.js, MongoDB
 </br>
 
